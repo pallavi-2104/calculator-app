@@ -27,7 +27,7 @@ A simple, responsive calculator built using **HTML**, **CSS**, and **JavaScript*
 ---
 
 ## 🔗 Live Demo  
-[View Live Demo](#)  
+[View Live Demo](https://html-preview.github.io/?url=https://github.com/pallavi-2104/calculator-app/blob/main/index.html)  
 *(Replace `#` with the link to your live demo, e.g., GitHub Pages URL)*  
 
 ---
